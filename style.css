@@ -69,6 +69,7 @@ section {
     font-family: var(--font2);
     font-size: clamp(0.5em, 0.8em + 1vw, 1.5em);
     padding: 15px;
+    padding-top: 10px;
 }
 section#img01 {
     background-image: url(imagens/background001.jpg);
